@@ -31,3 +31,13 @@ body {
     text-wrap: balance;
   }
 }
+
+a.ff-powered-img img{
+  opacity: 0 !important;
+  width: 0px !important;
+  height: 0px !important;
+}
+
+.ff-description{
+  display: none !important;
+}
